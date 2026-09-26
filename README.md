@@ -13,13 +13,15 @@ DeepLearning.AI × JetBrains《Spec-Driven Development with Coding Agents》課�
 | 檔案 | 說明 |
 |---|---|
 | `index.html` | 發布網頁本體 |
-| `images/` | 3 組資訊圖表（各含 16:9 桌機版與 9:16 手機版） |
+| `images/` | 5 組資訊圖表（各含 16:9 桌機版與 9:16 手機版） |
 | `spec-driven-development-coding-agents.md` | 深度導讀 Markdown 原稿 |
+| `share_post.md` | 社群分享文 |
 
 ## 原始素材
 
 - 課程：[Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents)（DeepLearning.AI，與 JetBrains 合作）
-- 逐字稿來源：YouTube 官方自動字幕，本地去重後整理
+- 影片：[Full Course: Spec-Driven Development with Coding Agents](https://www.youtube.com/watch?v=hy8UstR2NEg)（YouTube）
+- 逐字稿來源：上述影片的 YouTube 官方自動字幕，本地去重後整理
 
 ## 查證來源
 
